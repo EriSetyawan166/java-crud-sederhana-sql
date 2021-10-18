@@ -42,7 +42,7 @@
 <p>Jika mengikuti pemasangan program dengan baik dan benar maka program crud java ini akan berjalan dengan lancar. Tapi bila tidak maka kemungkinan ada beberapa kesalahan yang dilakukan. Kemungkinan kesalahan yang terjadi seperti: <b>Program tidak memunculkan data yang sudah ada secara default di database.</b>
 <ol>
 <li>
-	 Kemungkinan terjadi karena <b>koneksi sql dengan java belum benar,</b> pastikan memasukkan folde sql ke phpmyadmin dengan benar dan jangan merubah nama properti atau sqlnya kecuali juga diubah di dalam source codenya.
+	 Kemungkinan terjadi karena <b>koneksi sql dengan java belum benar,</b> pastikan memasukkan folder sql ke phpmyadmin dengan benar dan jangan merubah nama properti atau sqlnya kecuali juga diubah di dalam source codenya.
 </li>
 <li><b>Tidak ada library mysql-connector-java-5.1.23-bin di netbeans.</b> Sudah saya sediakan file jarnya di dalam folder library, cukup dipasangkan saja ke dalam netbeansnya.</li>
 
