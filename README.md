@@ -3,7 +3,7 @@
 <p>Ini adalah tugas dari uas pbo, membuat crud sederhana menggunakan java dan database mysql. CRUD ini dapat melakukan beberapa hal seperti menambahkan data, menghapus
 , mengedit, mereset, dan fitur tambahan untuk menghitung uang kuliah yang didasarkan dari gaji dari data wali mahasiswa</p>
 <h2>TAMPILAN</h2>
-![Alt text](https://github.com/EriSetyawan166/java-crud-sederhana-sql/blob/master/img/tampilan.jpg?raw=true "Tampilan Program")
+![Alt text](https://github.com/EriSetyawan166/java-crud-sederhana-sql/blob/main/img/tampilan.jpg?raw=true "Tampilan Program")
 <h2>Tata Cara Pemasangan</h2>
 <p>Pastikan sudah memiliki</p>
 <ol>
