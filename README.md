@@ -20,7 +20,7 @@
 <h3>Clone</h3>
 <p>Clone dulu folder repo ini ke pc kalian</p>
 <pre>
-	 git clone http://github.com/EriSetyawan166/java-crud.git
+	 git clone http://github.com/EriSetyawan166/java-crud-sederhana-sql.git
 </pre>
 <h3>Setting database</h3>
 <ol>
